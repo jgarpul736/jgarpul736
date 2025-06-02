@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey, I'm Jesús! 👋
 
-<!--
-**jgarpul736/jgarpul736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/-Jesús%20García%20Pulido-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com)](https://www.linkedin.com)  
+[![Gmail Badge](https://img.shields.io/badge/-jesusgarciapulidoj@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jesusgarciapulidoj@gmail.com)](mailto:jesusgarciapulidoj@gmail.com)  
+[![GitHub followers](https://img.shields.io/github/followers/jgarpul736?label=Follow&style=social)](https://github.com/jgarpul736)
 
-Here are some ideas to get you started:
+* I am a Frontend & Backend Developer from Jaén, Spain 🇪🇸  
+* Visit my [personal website](https://cesaralvarez.dev) 💻  
+* Techstack: `.html`, `.css`, `.javascript`, `.php`, `.java`, `.c#`, `.bootstrap`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jgarpul736&theme=dracula)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jgarpul736)
+
+
+[![Most Used Languages](https://raw.githubusercontent.com/jgarpul736/github-stats-transparent/output/generated/languages.svg)](https://github.com/jgarpul736/github-stats-transparent)
+
