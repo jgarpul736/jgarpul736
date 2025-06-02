@@ -1,6 +1,6 @@
 ## Hey, I'm Jesús! 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Jesús%20García%20Pulido-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com)](https://www.linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesús%20García%20Pulido-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-garcia-pulido-2aa75228a/) 
 [![Gmail Badge](https://img.shields.io/badge/-jesusgarciapulidoj@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jesusgarciapulidoj@gmail.com)](mailto:jesusgarciapulidoj@gmail.com)  
 [![GitHub followers](https://img.shields.io/github/followers/jgarpul736?label=Follow&style=social)](https://github.com/jgarpul736)
 
