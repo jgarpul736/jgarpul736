@@ -1,6 +1,11 @@
 <h1 align="center">Hey, I'm Jesús! 👋</h1>
 
 <p align="center">
+  <img src="assets/banner.png" alt="Jesús García Pulido Banner" width="100%" />
+</p>
+
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jesus-garcia-pulido-2aa75228a/">
     <img src="https://img.shields.io/badge/LinkedIn-Jesús%20García%20Pulido-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
