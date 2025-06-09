@@ -4,7 +4,6 @@
   <img src="assets/banner.png" alt="Jesús García Pulido Banner" width="100%" />
 </p>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/jesus-garcia-pulido-2aa75228a/">
     <img src="https://img.shields.io/badge/LinkedIn-Jesús%20García%20Pulido-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,8 +24,15 @@
 - 🌍 Desde Jaén, España 🇪🇸  
 - 💻 Fullstack Developer en formación  
 - 🌐 [Mi web (próximamente)](#)  
-- 🧠 Tech Stack: `.html` `.css` `.javascript` `.php` `.java` `.c#` `.bootstrap`  
-- 🚀 Aprendiendo: React · SQL · Node.js
+- 🧠 Tech Stack: `.html` `.css` `.javascript` `.php` `.java` `.c#` `.bootstrap` `.sql`  
+- 🚀 Aprendiendo: React · Node.js · Python · Hacking Ético  
+- 📚 Certificados:
+  - Creación de páginas con WordPress  
+  - Google: Inteligencia Artificial y Productividad  
+  - Descubre cómo usar ChatGPT desde cero  
+  - GitHub Copilot  
+  - DIGITAL SKILLS: ARTIFICIAL INTELLIGENCE  
+- 🌐 Inglés: Nivel B2  
 
 ---
 
