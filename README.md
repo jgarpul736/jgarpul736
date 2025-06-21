@@ -28,7 +28,7 @@
 - 🚀 Learning: React · Node.js · Python · Ethical Hacking  
 - 📚 Certificates:
 - [Google: Artificial Intelligence and Productivity](Cursos/Google%20Inteligencia%20Artificial%20y%20productividad.pdf)
-- [Gemini AI](Cursos/Certificado%20Gemini%20AI.pdf)
+- [Copilot AI](Cursos/Certificado%20Copilot.pdf)
 - [Intro to ChatGPT](Cursos/Certificado_Jesús%20Garcia%20Pulido%20ChatGPT.pdf)
 - [Artificial Intelligence from Scratch](Cursos/Certificado_Jesús%20Garcia%20Pulido%20Inteligencia%20Artificial%20Desde%20Cero.pdf)
 - [Web Development with WordPress](Cursos/Certificado_Jesús%20Garcia%20Pulido%20WordPress.pdf)
