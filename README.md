@@ -27,13 +27,14 @@
 - 💼 Tech Stack: `.html` `.css` `.javascript` `.php` `.java` `.c#` `.bootstrap` `.sql`  
 - 🚀 Learning: React · Node.js · Python · Ethical Hacking  
 - 📚 Certificates:
-  - [Web Development with WordPress](certificates/Certificado_Jesús%20Garcia%20Pulido%20WordPress.pdf)
-  - [Google: Artificial Intelligence and Productivity](certificates/Google%20Inteligencia%20Artificial%20y%20productividad.pdf)
-  - [Intro to ChatGPT](certificates/Certificado_Jesús%20Garcia%20Pulido%20ChatGPT.pdf)
-  - [Digital Skills: Artificial Intelligence](certificates/DIGITAL%20SKILLS%20ARTIFICIAL%20INTELLIGENCE.pdf)
-  - [Prompt Engineering for Everyone – IBM](https://courses.cognitiveclass.ai/certificates/da7804d74e6d408088698f9646b3328e)
-  - [Gemini AI by Google](certificates/Certificado%20Gemini%20AI.pdf)
-  - [Artificial Intelligence from Scratch](certificates/Certificado_Jesús%20Garcia%20Pulido%20Inteligencia%20Artificial%20Desde%20Cero.pdf)
+- [Google: Artificial Intelligence and Productivity](Cursos/Google%20Inteligencia%20Artificial%20y%20productividad.pdf)
+- [Gemini AI](Cursos/Certificado%20Gemini%20AI.pdf)
+- [Intro to ChatGPT](Cursos/Certificado_Jesús%20Garcia%20Pulido%20ChatGPT.pdf)
+- [Artificial Intelligence from Scratch](Cursos/Certificado_Jesús%20Garcia%20Pulido%20Inteligencia%20Artificial%20Desde%20Cero.pdf)
+- [Web Development with WordPress](Cursos/Certificado_Jesús%20Garcia%20Pulido%20WordPress.pdf)
+- [Digital Skills: Artificial Intelligence](Cursos/Digital%20Skills%20Artificial%20Intelligence.pdf)
+- [Prompt Engineering for Everyone – IBM](https://courses.cognitiveclass.ai/certificates/da7804d74e6d408088698f9646b3328e)
+
 - 🌐 English: B2 level
 
 
