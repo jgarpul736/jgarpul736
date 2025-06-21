@@ -20,19 +20,22 @@
 
 ### 👨‍💻 About Me
 
-- 🧑‍🎓 Grado Superior en Desarrollo de Aplicaciones Web  
-- 🌍 Desde Jaén, España 🇪🇸  
-- 💻 Fullstack Developer en formación  
-- 🌐 [Mi web (próximamente)](#)  
-- 🧠 Tech Stack: `.html` `.css` `.javascript` `.php` `.java` `.c#` `.bootstrap` `.sql`  
-- 🚀 Aprendiendo: React · Node.js · Python · Hacking Ético  
-- 📚 Certificados:
-  - Creación de páginas con WordPress  
-  - Google: Inteligencia Artificial y Productividad  
-  - Descubre cómo usar ChatGPT desde cero  
-  - GitHub Copilot  
-  - DIGITAL SKILLS: ARTIFICIAL INTELLIGENCE  
-- 🌐 Inglés: Nivel B2  
+- 🎓 Higher Technician in Web Application Development  
+- 🌍 From Jaén, Spain 🇪🇸  
+- 💻 Fullstack Developer in training  
+- 🌐 [My website (coming soon)](#)  
+- 💼 Tech Stack: `.html` `.css` `.javascript` `.php` `.java` `.c#` `.bootstrap` `.sql`  
+- 🚀 Learning: React · Node.js · Python · Ethical Hacking  
+- 📚 Certificates:
+  - [Web Development with WordPress](certificates/Certificado_Jesús%20Garcia%20Pulido%20WordPress.pdf)
+  - [Google: Artificial Intelligence and Productivity](certificates/Google%20Inteligencia%20Artificial%20y%20productividad.pdf)
+  - [Intro to ChatGPT](certificates/Certificado_Jesús%20Garcia%20Pulido%20ChatGPT.pdf)
+  - [Digital Skills: Artificial Intelligence](certificates/DIGITAL%20SKILLS%20ARTIFICIAL%20INTELLIGENCE.pdf)
+  - [Prompt Engineering for Everyone – IBM](https://courses.cognitiveclass.ai/certificates/da7804d74e6d408088698f9646b3328e)
+  - [Gemini AI by Google](certificates/Certificado%20Gemini%20AI.pdf)
+  - [Artificial Intelligence from Scratch](certificates/Certificado_Jesús%20Garcia%20Pulido%20Inteligencia%20Artificial%20Desde%20Cero.pdf)
+- 🌐 English: B2 level
+
 
 ---
 
