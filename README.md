@@ -34,6 +34,7 @@
 - [Web Development with WordPress](Cursos/Certificado_Jesús%20Garcia%20Pulido%20WordPress.pdf)
 - [Digital Skills: Artificial Intelligence](Cursos/Digital%20Skills%20Artificial%20Intelligence.pdf)
 - [Prompt Engineering for Everyone – IBM](https://courses.cognitiveclass.ai/certificates/da7804d74e6d408088698f9646b3328e)
+- [Ethical Hacking Bootcamp - Udemy](https://github.com/jgarpul736/jgarpul736/blob/main/Cursos/Certificado%20Ethical%20Hacking%20Bootcamp%20Udemy.pdf)
 
 - 🌐 English: B2 level
 
